@@ -1,0 +1,1646 @@
+ [
+    
+  {"code" : "8001",
+ 
+   "details" : "Perte de redondance, ligne A MVB" 
+  },
+
+  {"code" : "8002",
+
+   "details" : "Perte de redondance, ligne B MVB"
+  },
+
+  {"code" : "8003",
+
+   "details" : "Perte de la ligne A1 WTB"
+  },
+
+  {"code" : "8004",
+
+   "details" : "Perte de la ligne B1 WTB"
+  },
+
+  {"code" : "8005",
+
+   "details" : "Perte de la ligne A2 WTB"
+  },
+
+  {"code" : "8006",
+
+   "details" : "Perte de la ligne B2 WTB"
+  },
+
+  {"code" : "8007",
+
+   "details" : "Noud debranche du reseau"
+  },
+
+  {"code" : "2001",
+
+
+   "details" : "L'interrupteur extra-rapide ne se ferme pas"
+  },
+
+  {"code" : "2002",
+
+   "details" : "L'interrupteur extra-rapide ne se ferme pas"
+  },
+
+  {"code" : "2003",
+
+   "details" : "L'interrupteur extra-rapide ne se ferme pas"
+  },
+
+  {"code" : "2004",
+
+   "details" : "Ouverture interrupteur extra-rapide "
+  },
+
+  {"code" : "2005",
+
+   "details" : "Perte de redondance, ligne A MVB"
+  },
+
+  {"code" : "2006",
+
+   "details" : "Perte de redondance, ligne B MVB"
+  },
+
+  {"code" : "2007",
+
+   "details" : "Perte de la ligne A1 WTB"
+  },
+
+  {"code" : "2008",
+
+   "details" : "Perte de la ligne B1 WTB"
+  },
+
+  {"code" : "2009",
+
+   "details" : "Perte de la ligne A2 WTB"
+  },
+
+  {"code": "200a" ,
+
+   "details" : "Perte de la ligne B2 WTB"
+   },
+
+  {"code" : "200b",
+
+   "details" : "L'interrupteur extra rapide ne se ferme pas "
+   },
+
+  {"code" :"200c" ,
+
+    "details" : "Tension presente seulement aux terminaisons de l'AZ2 et du GS1"
+   },
+
+  {"code" :"200d" ,
+
+   "details" : "Aucune tension seulement aux terminaisons du GS2"
+    },
+
+  {"code" :"200e" ,
+
+   "details" : "Tension presente seulement aux terminaisons du GS2"
+     },
+
+  {"code" :"200f" ,
+
+   "details" : "Tension presente seulement aux terminaisons de l'AZ1 et du GS2" 
+  },
+
+   {"code" :"2010" ,
+
+   "details" : "Tension presente seulement aux terminaisons du GS1 et du GS2 "
+     },
+
+   {"code" :"2011" ,
+
+   "details" : "Aucune tension seulement aux terminaisons de l'AZ2"
+     },
+    {"code" :"2012" ,
+
+   "details" : "Tension presente seulement aux terminaisons de l'AZ2 et du GS2"
+     },
+
+    {"code" :"2013" ,
+
+   "details" : "Aucune tension seulement aux terminaisons du GS1"
+     },
+
+{"code" :"2014" ,
+
+   "details" : "Aucune tension seulement aux terminaisons de l'AZ1"
+     },
+{"code" :"2015" ,
+
+   "details" : "Tension presente sur tous les modules"
+     },
+{"code" :"2016" ,
+
+   "details" : "cle double de banc inseree."
+     },
+{"code" :"2017" ,
+
+   "details" : "Ouverture interrupteur extra-rapide provoquee par l'activation du relais differentiel general"
+     },
+{"code" :"2018" ,
+
+   "details" : "Ouverture interrupteur extra-rapide"
+     },
+{"code" :"2019" ,
+
+   "details" : "Fermeture ratee de l'interrupteur extra-rapide"
+     },
+{"code" :"201A" ,
+
+   "details" : "Ouverture interrupteur extra-rapide"
+      },
+{"code" :"201A" ,
+
+ "details" : "Ouverture interrupteur extra-rapide"
+
+      },
+
+{"code" :"201b" ,
+
+   "details" : "Ouverture interrupteur extra-rapide a cause de l'abaissement du pantographe(s)"
+
+      },
+
+{"code" :"201c" ,
+
+   "details" : "Autorisation fermeture interrupteur extra-rapide inhibee par le combinateur de terre en position de masse"
+
+      },
+
+{"code" :"201d" ,
+
+   "details" : "Autorisation fermeture interrupteur extra-rapide inhibee a cause de l'interrupteur GS ON"
+      },
+
+{"code" :"201e" ,
+
+   "details" : "Configuration haute tension pas definie"
+
+      },
+
+{"code" :"201f" ,
+
+   "details" : "Autorisation fermeture interrupteur extra-rapide inhibee a cause des leviers de pupitre hors 0"
+      },
+
+{"code" :"2020" ,
+
+   "details" : "Ouverture interrupteur extra-rapide"
+
+      },
+
+{"code" :"2021" ,
+
+   "details" : "Autorisation levage Pantographe ou fermeture interrupteur extra-rapide inhibee"
+      },
+
+{"code" :"2022" ,
+
+   "details" : "Stotz 3F10 (tableau QC) ouvert"
+      },
+{"code" :"2023" ,
+
+   "details" : "L'interrupteur extra-rapide ne se ferme pas"
+
+      },
+
+{"code" :"2024" ,
+
+   "details" : "Configuration sectionneurs inhibee a cause de l'interrupteur extra-rapide ferme"
+      },
+
+{"code" :"2025" ,
+
+   "details" : "Configuration sectionneurs motrice pas possible"
+      },
+{"code" :"2026" ,
+
+   "details" : "Sectionneur actionnement 1QAZ) ne s'ouvre pas"
+      },
+
+{"code" :"2027" ,
+
+   "details" : "Sectionneur actionnement (1QAZ)ne se ferme pas"
+
+      },
+
+{"code" :"2028" ,
+
+   "details" : "Sectionneur groupe statique (1QGS)ne s'ouvre pas"
+
+      },
+{"code" :"2029" ,
+
+   "details" : "Sectionneur groupe statique (1QGS) ne se ferme pas"
+      },
+
+{"code" :"202a" ,
+
+   "details" : "Sectionneur conduite haute tension (1QAT) ne s'ouvre pas"
+
+      },
+
+{"code" :"202b" ,
+
+   "details" : "Sectionneur conduite haute tension (1QAT) ne se ferme pas"
+
+      },
+
+{"code" :"202c" ,
+
+   "details" : "Sectionneur 1QAZ ouvert"
+
+      },
+
+{"code" :"202d" ,
+
+   "details" : "Sectionneur 1QAZ ferme"
+
+      },
+
+{"code" :"202e" ,
+
+   "details" : "Sectionneur 1QGS ouvert"
+      },
+
+{"code" :"202f" ,
+
+   "details" : "Sectionneur 1QGS ferme"
+      },
+
+{"code" :"2030" ,
+
+   "details" : "Sectionneur 1QAT ouvert"
+      },
+
+{"code" :"2031" ,
+
+   "details" : "Sectionneur 1QAT ferme"
+      },
+
+{"code" :"2032" ,
+
+   "details" : "Perte de redondance levier  AV/IND, Panne d'un micro-interrupteur levier AV-IN (position arriere)"
+      },
+
+{"code" :"2033" ,
+
+   "details" : "Placer les leviers en position de  0"
+      },
+
+{"code" :"2034" ,
+
+   "details" : "Perte de redondance levier  AV/IND, Panne d'un micro-interrupteur levier AV-IN (position avant)"
+      },
+
+{"code" :"2035" ,
+
+   "details" : "Perte de redondance levier  AV/IND, Panne d'un micro-interrupteur levier AV-IN (position zero)"
+      },
+
+{"code" :"2036" ,
+
+   "details" : "Perte de redondance levier  AV/IND, Panne d'un micro-interrupteur levier AV-IN"
+      },
+
+{"code" :"2037" ,
+
+   "details" : "Erreur de communication du Teloc"
+},
+
+{"code" : "2038" ,
+
+   "details" : "Essai anti-incendie rate remorque rame 3"
+      },
+
+{"code" :"2039" ,
+
+   "details" : "Essai anti-incendie rate motrice rame 3"
+      },
+
+{"code" :"203d" ,
+
+   "details" : "Levier de couple LCA en panne"
+      },
+
+{"code" :"203e" ,
+
+   "details" : "L'interrupteur extra-rapide ne se ferme pas"
+      },
+{"code" :"2042" ,
+
+   "details" : "Panne levier programmation vitesse"
+      },
+
+{"code" :"2043" ,
+
+   "details" : "L'interrupteur extra-rapide ne se ferme pas"
+      },
+{"code" :"2044" ,
+
+   "details" : "L'interrupteur extra-rapide ne se ferme pas"
+      },
+{"code" :"2045" ,
+
+   "details" : "L'interrupteur extra-rapide ne se ferme pas"
+      },
+{"code" :"2046" ,
+
+   "details" : "L'interrupteur extra-rapide ne se ferme pas"
+      },
+{"code" :"2047" ,
+
+   "details" : "Le compresseur auxiliaire ne fonctionne pas"
+      },
+
+{"code" :"2048" ,
+   "details" : "Contacteur compresseur auxiliaire normalement branche"
+      },
+
+{"code" :"2049" ,
+
+   "details" : "Stotz 3F06 (tableau QC) ouvert"
+      },
+
+{"code" :"204c" ,
+
+   "details" : "Panne groupe statique, Contacteur sortie groupe statique (2K01) ne ferme pas"
+      },
+
+{  "code" :"204d" ,
+
+   "details" : "Charges triphasees pas alimentees, Contacteur charges MT de la motrice (2K02) ne ferme pas"
+      },
+
+{"code" :"204e" ,
+
+   "details" : "Panne contacteur ligne MT, Contacteur ligne MT de la rame (2K03) ne ferme pas"
+      },
+
+{"code" :"204f" ,
+
+   "details" : "Panne contacteur MT de la Prise Atelier, Contacteur MT de prise atelier (2K04) ne ferme pas"
+      },
+
+{"code" :"2050" ,
+
+   "details" : "Panne Groupe Statique, Contacteur sortie groupe statique (2K01) n'ouvre pas"
+      },
+
+{"code" :"2051" ,
+
+   "details" : "Contacteur general charges MT de la motrice n'ouvre pas"
+      },
+
+{"code" :"2052" ,
+
+   "details" : "Ouverture contacteur 2K03 ratee"
+      },
+
+{"code" :"2053" ,
+
+   "details" : "Panne contacteur prise atelier"
+      },
+
+{"code" :"2054" ,
+
+   "details" : "Prise atelier MT alimentee "
+      },
+
+{"code" :"2055" ,
+
+   "details" : "Tension d'entree maxi. Groupe statique"
+      },
+
+{"code" :"2056" ,
+
+   "details" : "Ouverture interrupteur extra-rapide a cause de l'activation de la protection du groupe statique"
+      },
+
+{"code" :"2057" ,
+
+   "details" : "Ouverture interrupteur extra-rapide a cause de l'activation de la protection du groupe statique"
+      },
+{ "code" : "2058" ,
+
+  "details" : "Groupe statique en panne"
+},
+
+{ "code" : "2059" ,
+
+  "details" : "Ouverture interrupteur extra-rapide a cause de l'activation de la protection groupe statique "
+},
+
+{ "code" : "205a" ,
+
+  "details" : "Tension intermediaire maxi groupe statique "
+},
+
+{ "code" : "205b" ,
+
+  "details" : "Groupe statique en panne"
+},
+
+{ "code" : "205c" ,
+
+  "details" : "Ouverture interrupteur extra-rapide a cause de l'activation de la protection du groupe statique"
+},
+
+{ "code" : "205d" ,
+
+  "details" : "Activation protection provisoire groupe statique"
+},
+
+{ "code" : "205e" ,
+
+  "details" : "Groupe statique en panne"
+},
+
+{ "code" : "205f" ,
+
+  "details" : "Tension d'entree minimale groupe statique"
+},
+
+{ "code" : "2060" ,
+
+  "details" : "Tension intermediaire minimale groupe statique"
+},
+
+{ "code" : "2061" ,
+
+  "details" : "Activation protection temporaire groupe statique"
+},
+
+{ "code" : "2062" ,
+
+  "details" : "Groupe statique en panne, Aucune tension de sortie groupe statique"
+},
+
+{ "code" : "2063" ,
+
+  "details" : "Groupe statique en panne, Aucune ventilation colonne 1 groupe statique"
+},
+
+{ "code" : "2064" ,
+
+  "details" : "Activation protection provisoire groupe statique, Aucune ventilation colonne 2 groupe statique"
+},
+
+{ "code" : "2065" ,
+
+  "details" : "Activation protection provisoire groupe statique, Aucune ventilation colonne 3 groupe statique"
+},
+
+{ "code" : "2066" ,
+
+  "details" : "Activation protection provisoire groupe statique, Aucune tension de sortie groupe statique"
+},
+
+{ "code" : "2067" ,
+
+  "details" : "Activation protection provisoire groupe statique"
+},
+
+{ "code" : "2068" ,
+
+  "details" : "Ouverture interrupteur extra-rapide"
+},
+
+{ "code" : "2069" ,
+
+  "details" : "Ouverture interrupteur extra-rapide"
+},
+
+{ "code" : "206a" ,
+
+  "details" : "Activation protection groupe statique"
+},
+
+{ "code" : "206b" ,
+
+  "details" : "Activation protection groupe statique"
+},
+
+{ "code" : "206c" ,
+
+  "details" : "Ouverture interrupteur extra-rapide"
+},
+
+{ "code" : "206d" ,
+
+  "details" : "Ouverture interrupteur extra-rapide"
+},
+
+{ "code" : "206e" ,
+
+  "details" : "Activation protection temporaire groupe statique"
+},
+
+{ "code" : "2070" ,
+
+  "details" : "Ouverture interrupteur extra-rapide"
+},
+{ "code" : "2071" ,
+
+  "details" : "Ouverture interrupteur extra-rapide"
+},
+
+{ "code" : "2072" ,
+
+  "details" : "Ouverture interrupteur extra-rapide"
+},
+
+{ "code" : "2073" ,
+
+  "details" : "Groupe Statique en panne"
+},
+
+{ "code" : "2074" ,
+
+  "details" : "L'interrupteur extra-rapide ne se ferme pas"
+},
+
+{ "code" : "2075" ,
+
+  "details" : "Stotz 5F01 (tableau QC) ouvert"
+},
+
+{ "code" : "2076" ,
+
+  "details" : "Stotz 5F02 (tableau QC) ouvert"
+},
+
+{ "code" : "2077" ,
+
+  "details" : "Stotz 2F01 (tableau QC) ouvert"
+},
+
+{ "code" : "2078" ,
+
+  "details" : "Le Groupe Statique ne fonctionne pas a cause de l'activation de la vanne d'air"
+},
+
+{ "code" : "2079" ,
+
+  "details" : "Contacteur 2k01 en position fermee "
+},
+
+{ "code" : "207a" ,
+
+  "details" : "Stotz 2F07 (tableau QC) ouvert"
+},
+{ "code" : "207b" ,
+
+  "details" : "Stotz 3F23 (tableau QC) ouvert"
+},
+
+{ "code" : "207c" ,
+
+  "details" : "Panne Chargeur de Batterie, Activation interrupteur thermique radiateurs chargeur de batterie"
+},
+
+{ "code" : "207d" ,
+
+  "details" : "Panne Chargeur de Batterie, Panne puissance chargeur de batterie"
+},
+
+{ "code" : "207e" ,
+
+  "details" : "Panne Chargeur de Batterie, Panne controle chargeur de batterie"
+},
+
+{ "code" : "207f" ,
+
+  "details" : "Panne Chargeur de Batterie, Panne carte RECA chargeur de batterie"
+},
+
+{ "code" : "2080" ,
+
+  "details" : "Panne Chargeur de Batterie, Panne carte SICA chargeur de batterie"
+},
+
+{ "code" : "2081" ,
+
+  "details" : "Panne Chargeur de Batterie, Contacteur 2K11 ne ferme pas"
+},
+
+{ "code" : "2082" ,
+
+  "details" : "Panne Chargeur de Batterie, Contacteur 2K11 n'ouvre pas"
+},
+
+{ "code" : "2083" ,
+
+  "details" : "Freinage d'urgence applique"
+},
+
+{ "code" : "2084" ,
+
+  "details" : "Autorisation de marche inhibee a cause de la pression insuffisante dans la conduite generale"
+},
+
+{ "code" : "2085" ,
+
+  "details" : "Coasting Actionnement, Aucun signal Power Good alimentateur DC/DC"
+},
+
+{ "code" : "2086" ,
+
+  "details" : "Niveau limite de l'eau dans le reservoir"
+},
+
+{ "code" : "2087" ,
+
+  "details" : "Coasting Actionnement, Niveau minimal de l'eau dans le reservoir"
+},
+
+{ "code" : "2088" ,
+
+  "details" : "Stotz 6F02 ouvert"
+},
+
+{ "code" : "2089" ,
+
+  "details" : "Coasting Actionnement, Haute temperature de l'eau entree modules de la sonde analogique"
+},
+
+{ "code" : "208a" ,
+
+  "details" : "Coasting Actionnement, Haute temperature de l'eau entree modules de la sonde thermique digitale"
+},
+
+{ "code" : "208b" ,
+
+  "details" : "Coasting Actionnement, Pression minimale de l'eau avec la pompe fonctionnant"
+},
+
+{ "code" : "208c" ,
+
+  "details" : "Debit minimal de l'eau dans le circuit de traitement"
+},
+
+{ "code" : "208d" ,
+
+  "details" : "Coasting Actionnement, Debit minimal de l'eau dans le circuit principale"
+},
+
+{ "code" : "208e" ,
+
+  "details" : "Niveau limite minimal resistivite de l'eau dans le circuit principale"
+},
+
+{ "code" : "208f" ,
+
+  "details" : "Coasting Actionnement, Resistivite minimale de l'eau dans le circuit principale"
+},
+
+{ "code" : "2090" ,
+
+  "details" : "Resistivite minimale de l'eau dans le circuit de traitement"
+},
+
+{ "code" : "2091" ,
+
+  "details" : "Centrale hydraulique ne fonctionne pas"
+},
+
+{ "code" : "2092" ,
+
+  "details" : "Coasting Actionnement, Haute temperature inductance filtre intermediaire "
+},
+
+{ "code" : "2093" ,
+
+  "details" : "Coasting Actionnement, Haute temperature inductance filtre reseau "
+},
+
+{ "code" : "2094" ,
+
+  "details" : "Stotz 4F01 (tableau QC) ouvert "
+},
+
+{ "code" : "2095" ,
+
+  "details" : "Stotz 4F02 (tableau QC) ouvert"
+},
+
+{ "code" : "2096" ,
+
+  "details" : "Stotz 4F03 (tableau QC) ouvert"
+},
+
+{ "code" : "2097" ,
+
+  "details" : "Panne Freinage Electrique, Panne/ activation dispositif 1A01 image thermique rheostat de freinage"
+},
+
+{ "code" : "2098" ,
+
+  "details" : "Panne Freinage Electrique, Panne/ activation dispositif 1A02 image thermique rheostat de freinage"
+},
+
+{ "code" : "2099" ,
+
+  "details" : "Stotz 2F06 (tableau QB) ouvert"
+},
+
+{ "code" : "209a" ,
+
+  "details" : "Stotz 3F25 (tableau QC) ouvert"
+},
+
+{ "code" : "209b" ,
+
+  "details" : "Moto-compresseur ne fonctionne pas, Activation thermostat temperature huile moto-compresseur (3B12)"
+},
+
+{ "code" : "209c" ,
+
+  "details" : "Demande d'insertion compresseurs directs"
+},
+
+{ "code" : "209d" ,
+
+  "details" : "Moto-compresseur ne fonctionne pas, Activation pressostat efficacite moto-compresseur (3E05)"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{ "code" : "209e" ,
+
+  "details" : "Niveau huile bas moto-compresseur"
+},
+
+{ "code" : "209f" ,
+
+  "details" : "Moto-compresseur ne fonctionne pas, Contacteur tripolaire moto-compresseur (2K10) ne ferme pas"
+},
+
+{ "code" : "20a0" ,
+
+  "details" : "Panne contacteur moto-compresseur, Contacteur tripolaire moto-compresseur (2K10) n'ouvre pas"
+},
+
+{ "code" : "20a1" ,
+
+  "details" : "Stotz 2F01 (Tableau QC) ouvert, Activation interrupteur tripolaire 2F01"
+},
+
+{ "code" : "20a2" ,
+
+  "details" : "Stotz 2F02 (Tableau QB) ouvert, Activation interrupteur tripolaire moto-ventilateur 1 (2F02)"
+},
+
+{ "code" : "20a3" ,
+
+  "details" : "Stotz 2F03 (Tableau QB) ouvert, Activation interrupteur tripolaire moto-ventilateur 2 (2F03)"
+},
+
+{ "code" : "20a4" ,
+
+  "details" : "Stotz 2F05 (Tableau QB) ouvert, Activation interrupteur tripolaire moto-pompe (2F05)"
+},
+
+{ "code" : "20a5" ,
+
+  "details" : "Stotz 2F08 (Tableau QB) ouvert, Activation interrupteur tripolaire vitesse faible ventilateur radiateur (2F08)"
+},
+
+{ "code" : "20a6" ,
+
+  "details" : "Stotz 2F04 (Tableau QB) ouvert, Activation interrupteur tripolaire haute vitesse ventilateur radiateur (2F04)"
+},
+
+{ "code" : "20a7" ,
+
+  "details" : "Coasting Actionnement, Contacteur tripolaire moto-ventilateur 1 (2K06) ne ferme pas"
+},
+
+{ "code" : "20a8" ,
+
+  "details" : "Contacteur tripolaire 2K06 n'ouvre pas, Contacteur tripolaire moto-ventilateur 1 (2K06) n'ouvre pas"
+},
+
+{ "code" : "20a9" ,
+
+  "details" : "Coasting Actionnement, Contacteur tripolaire moto-ventilateur 2 (2K07) ne ferme pas"
+},
+
+{ "code" : "20aa" ,
+
+  "details" : "Contacteur tripolaire 2K07 n'ouvre pas, Contacteur tripolaire moto-ventilateur 2 (2K07) n'ouvre pas"
+},
+
+{ "code" : "20ab" ,
+
+  "details" : "Coasting Actionnement, Contacteur tripolaire motopompe (2K09) ne ferme pas"
+},
+
+{ "code" : "20ac" ,
+
+  "details" : "Contacteur tripolaire 2K09 n'ouvre pas, Contacteur tripolaire moto-pompe (2K09) n'ouvre pas"
+},
+
+{ "code" : "20ad" ,
+
+  "details" : "Coasting Actionnement, Contacteur tripolaire faible vitesse ventilateur radiateur (2K12) ne ferme pas"
+},
+
+{ "code" : "20ae" ,
+
+  "details" : "Contacteur tripolaire faible vitesse ventilateur radiateur 2K12 n'ouvre pas"
+},
+
+{ "code" : "20af" ,
+
+  "details" : "Coasting Actionnement, Contacteur tripolaire haute vitesse ventilateur radiateur (2K08) ne ferme pas"
+},
+
+{ "code" : "20b0" ,
+
+  "details" : "Contacteur tripolaire haute vitesse ventilateur radiateur (2K08) n'ouvre pas"
+},
+
+{ "code" : "20b1" ,
+
+  "details" : "Stotz 3F28 (tableau QC) ouvert, Activation interrupteur interlock (3F28)"
+},
+
+{ "code" : "20b2" ,
+
+  "details" : "Panne Freinage Electrique, Electrovanne interlock desexcitee indument"
+},
+
+{ "code" : "20b3" ,
+
+  "details" : "Panne Freinage Electrique, Electrovanne interlock excitee indument"
+},
+
+{ "code" : "20b4" ,
+
+  "details" : "Stotz 3F08 (tableau QC) ouvert, Activation interrupteur dispositif 50 Hz (3F08)"
+},
+
+{ "code" : "20b6" ,
+
+  "details" : "Interrupteur 3F01 (tableau QC) ouvert, Activation interrupteur sortie chargeur de batterie (3F01)"
+},
+
+{ "code" : "20b7" ,
+
+  "details" : "Interrupteur 3F02 (tableau QC) ouvert, Activation interrupteur batterie (3F02)"
+},
+
+{ "code" : "20b8" ,
+
+  "details" : "Interrupteur unipolaire circuit commande contacteur insertion batterie ouvert"
+},
+
+{ "code" : "20b9" ,
+
+  "details" : "Stotz 3F04 (tableau QC) ouvert, Activation interrupteur positif d'urgence (3F04)"
+},
+
+{ "code" : "20bb" ,
+
+  "details" : "Coasting Actionnement, Inconsequence commandes traction/freinage entre TCU/CCU"
+},
+
+{ "code" : "20ba" ,
+
+  "details" : "Interrupteur 3F05 (tableau QC) ouvert, Activation interrupteur contacteur batterie (3F05)"
+},
+
+{ "code" : "20bc" ,
+
+  "details" : "Ouverture interrupteur extra-rapide par la diagnostique sur les condensateurs de filtre de pupitre 3"
+},
+
+{ "code" : "20bd" ,
+
+  "details" : "Ouverture interrupteur extra-rapide, Tension ligne 1500 Volt pas conforme a la position du selecteur 3S21"
+},
+
+{ "code" : "20be" ,
+
+  "details" : "Ouverture interrupteur extra-rapide, Tension ligne 3000 Volt pas conforme a la position du selecteur 3S21"
+},
+
+{ "code" : "20bf" ,
+
+  "details" : "Stotz 3F29 ouvert, Activation interrupteur anti-incendie (3F29)"
+},
+
+{ "code" : "20c0" ,
+
+  "details" : "Bouteilles AI vides, Activation pressostat efficacite bouteille (3E07)"
+},
+
+{ "code" : "20c1" ,
+
+  "details" : "Micro-interrupteur etat vanne d'air non congruent"
+},
+
+{ "code" : "20c2" ,
+
+  "details" : "Activation d'une sonde thermique lineaire"
+},
+
+{ "code" : "20c3" ,
+
+  "details" : "Incendie, Activation sonde anti-incendie 1"
+},
+
+{ "code" : "20c4" ,
+
+  "details" : "Incendie, Activation sonde anti-incendie 2"
+},
+
+{ "code" : "20c5" ,
+
+  "details" : "Le interrupteur extra-rapide ne se ferme pas, Levage pantographe inhibe a cause du contacteur pre-charge filtre (1KCF) ferme"
+},
+
+{ "code" : "20c6" ,
+
+  "details" : "Interrupteur alimentation afficheur instruments 3F26 ouvert"
+},
+
+{ "code" : "20c7" ,
+
+  "details" : "Interrupteur alimentation afficheur diagnostique 3F27 ouvert"
+},
+
+{ "code" : "20c8" ,
+
+  "details" : "Ouverture interrupteur extra-rapide"
+},
+
+{ "code" : "20c9" ,
+
+  "details" : "Ouverture interrupteur extra-rapide, Time out sur le paquet de Rx de la  TCU"
+},
+
+{ "code" : "20ca" ,
+
+  "details" : "Ouverture interrupteur extra-rapide, Time out sur le paquet de Rx du GS"
+},
+
+{ "code" : "20cc" ,
+
+  "details" : "Ouverture interrupteur extra-rapide pour configuration sectionneurs haute tension"
+},
+
+{ "code" : "20ce" ,
+
+  "details" : "Tension batteries inferieure a 20 Volt, Basse tension de batterie ne permet pas la configuration des contacteurs MT"
+},
+
+{ "code" : "20cf" ,
+
+  "details" : "Ouverture interrupteur extra-rapide demandee par le controle groupe statique"
+},
+
+{ "code" : "20d0" ,
+
+  "details" : "Coasting Actionnement, Activation protection TCU"
+},
+
+{ "code" : "20d1" ,
+
+  "details" : "Stotz 2F02 et/ou 2F03 (tableau QB) aperti, Activation interrupteurs tripolaires moto-ventilateurs (2F02 et/ou 2F03)"
+},
+
+{ "code" : "20d2" ,
+
+  "details" : "Ouverture interrupteur extra-rapide, Activation protection a cause de l'absence de ventilation groupe statique avec interrupteur extra-rapide ferme"
+},
+
+{ "code" : "20d3" ,
+
+  "details" : "Ouverture interrupteur extra-rapide, Ouverture interrupteur extra-rapide pour la diagnostique sur les condensateurs de filtre de pupitre 1"
+},
+
+{ "code" : "20d4" ,
+
+  "details" : "Stotz 3F24 (tableau QC) declenche, Activation interrupteur alimentation contacteurs MT de la motrice (3F24)"
+},
+
+{ "code" : "20d5" ,
+
+  "details" : "Traction coupee par le robinet frein qui n'est pas en position correcte"
+},
+
+{ "code" : "20d6" ,
+
+  "details" : "Essai anti-incendie OK"
+},
+
+{ "code" : "20d7" ,
+
+  "details" : "Essai anti-incendie KO"
+},
+
+{ "code" : "20d8" ,
+
+  "details" : "Actionnement en panne, Activation protection de power good de la centrale hydraulique"
+},
+
+{ "code" : "20d9" ,
+
+  "details" : "Actionnement en panne, Pas d'eau dans le reservoir"
+},
+
+{ "code" : "20da" ,
+
+  "details" : "Actionnement en panne, Aucune pression dans le circuit hydraulique"
+},
+
+{ "code" : "20db" ,
+
+  "details" : "Actionnement en panne, Aucun debit d'eau dans le circuit hydraulique"
+},
+
+{ "code" : "20dc" ,
+
+  "details" : "Actionnement en panne, Activation protection alarme resistivite"
+},
+
+{ "code" : "20dd" ,
+
+  "details" : "Actionnement en panne, Performance incorrecte de l'essai  relais differentiel general"
+},
+
+{ "code" : "20de" ,
+
+  "details" : "Performance incorrecte de l'essai relais courant maximal"
+},
+
+{ "code" : "20df" ,
+
+  "details" : "Performance incorrecte de l'essai relais delesteur de charges"
+},
+
+{ "code" : "20e0" ,
+
+  "details" : "Essai anti-incendie rate motrice de queue"
+},
+
+{ "code" : "20e1" ,
+
+  "details" : "Essai anti-incendie rate remorque rame 2"
+},
+
+{ "code" : "20e2" ,
+
+  "details" : "Essai anti-incendie rate motrice rame 2"
+},
+
+{ "code" : "20e3" ,
+
+  "details" : "Robinet d'isolement pantographe en position isole"
+},
+
+{ "code" : "20e4" ,
+
+  "details" : "Sectionneur manuel des charges MT motrice isole, Sectionneur manuel des charges MT  (2S01) en position 'ouvert'"
+},
+
+{ "code" : "20e5" ,
+
+  "details" : "Panne telecommande, Aucun dialogue entre la motrice de tete et les autres de la composition"
+},
+
+{ "code" : "20e6" ,
+
+  "details" : "Ouverture interrupteur extra-rapide, L'interrupteur extra-rapide ne ferme pas a cause de la pre-charge ratee des filtres d'un appareil"
+},
+
+{ "code" : "20e7" ,
+
+  "details" : "Coasting Actionnement, Coasting force a cause de la panne contacteurs MT"
+},
+
+{ "code" : "20e8" ,
+
+  "details" : "L'interrupteur extra-rapide ne se ferme pas, Verifier le circuit de fermeture de l'interrupteur extra-rapide"
+},
+
+{ "code" : "20e9" ,
+
+  "details" : "Interrupteur circuits de commande en position ouvert"
+},
+
+{ "code" : "20ea" ,
+
+  "details" : "Exclusion freinage electrique a cause de l'echauffement limite du rheostat"
+},
+
+{ "code" : "20eb" ,
+
+  "details" : "Exclusion freinage electrique a cause de l'echauffement limite du rheostat"
+},
+
+{ "code" : "20ec" ,
+
+  "details" : "Disjoncteur 3F21 declenche"
+},
+
+{ "code" : "20ed" ,
+
+  "details" : "Disjoncteur 3F17 declenche"
+},
+
+{ "code" : "20ee" ,
+
+  "details" : "Disjoncteur 3F16 declenche"
+},
+
+{ "code" : "20ef" ,
+
+  "details" : "Disjoncteur 3F18 declenche"
+},
+
+{ "code" : "20f0" ,
+
+  "details" : "Disjoncteur 6F01 declenche"
+},
+
+{ "code" : "20f1" ,
+
+  "details" : "Disjoncteur 6F02 declenche"
+},
+
+{ "code" : "20f2" ,
+
+  "details" : "Disjoncteur 3F09 declenche"
+},
+
+{ "code" : "20f3" ,
+
+  "details" : "Disjoncteur 3F22 declenche"
+},
+
+{ "code" : "20f4" ,
+
+  "details" : "Disjoncteur 3F15 declenche"
+},
+
+{ "code" : "20f5" ,
+
+  "details" : "Disjoncteur 3F14 declenche"
+},
+
+{ "code" : "20f6" ,
+
+  "details" : "Disjoncteur 3F19 ou 3F20 declenche"
+},
+
+{ "code" : "20f7" ,
+
+  "details" : "Disjoncteur 3F36 declenche"
+},
+{ "code" : "20f8" ,
+
+  "details" : "Disjoncteur 3F11 declenche"
+},
+
+{ "code" : "20f9" ,
+
+  "details" : "Disjoncteur 3F10 declenche"
+},
+
+{ "code" : "20fa" ,
+
+  "details" : "Groupe Statique arrete a cause de l'absence d'alimentation"
+},
+
+{ "code" : "20fb" ,
+
+  "details" : "Verrouillage portes debranche"
+},
+
+{ "code" : "20fc" ,
+
+  "details" : "Suspensions dechargees"
+},
+
+{ "code" : "20fd" ,
+
+  "details" : "Actionnement exclu a cause du refroidissement rate du circuit hydraulique"
+},
+
+{ "code" : "20fe" ,
+
+  "details" : "Panne Centrale Tachygraphique"
+},
+
+{ "code" : "20ff" ,
+
+  "details" : "Panne capteur de vitesse"
+},
+
+{ "code" : "2100" ,
+
+  "details" : "Panne 2 capteurs de vitesse"
+},
+
+{ "code" : "2101" ,
+
+  "details" : "Panne TELOC"
+},
+
+{ "code" : "2102" ,
+
+  "details" : "VACMA intervention"
+},
+
+{ "code" : "2103" ,
+
+  "details" : "Panne VACMA"
+},
+
+{ "code" : "2104" ,
+
+  "details" : "VACMA na marche pas"
+},
+
+{ "code" : "2105" ,
+
+  "details" : "Coasting pour perte de tension de ligne"
+},
+
+{ "code" : "4001" ,
+
+  "details" : "Panne actionnement"
+},
+
+{ "code" : "4002" ,
+
+  "details" : "Ouverture Interrupteur extra-rapide"
+},
+
+{ "code" : "4003" ,
+
+  "details" : "Panne Actionnement"
+},
+
+{ "code" : "4004" ,
+
+  "details" : "Panne Actionnement. Panne aux sondes de temperature moteur"
+},
+
+{ "code" : "4005" ,
+
+  "details" : "TENSION MAXIMALE SEMI-FILTRE 1"
+},
+
+{ "code" : "4006" ,
+
+  "details" : "TENSION MAXIMALE SEMI-FILTRE 2"
+},
+
+{ "code" : "4007" ,
+
+  "details" : "COURANT MAXIMAL DE LIGNE"
+},
+
+{ "code" : "4008" ,
+
+  "details" : "TENSION LIGNE MAXIMALE"
+},
+
+{ "code" : "4009" ,
+
+  "details" : "COURANT MAXIMAL DE FREINAGE  1"
+},
+
+{ "code" : "400a" ,
+
+  "details" : "COURANT MAXIMAL DE CHOPPER"
+},
+
+{ "code" : "400b" ,
+
+  "details" : "ALARME TRANSMISSION MATERIEL (HARDWARE)"
+},
+
+{ "code" : "400c" ,
+
+  "details" : "ALARME POWER GOOD 5 VOLT"
+},
+
+{ "code" : "400d" ,
+
+  "details" : "ALARME POWER GOOD 12 VOLT"
+},
+
+{ "code" : "400e" ,
+
+  "details" : "PANNE ALIMENTATION CARTES  GTO"
+},
+
+{ "code" : "400f" ,
+
+  "details" : "ALARME INVERSEUR GATE UNIT SUPERIEUR PHASE R"
+},
+
+{ "code" : "4010" ,
+
+  "details" : "ALARME INVERSEUR GATE UNIT INFERIEUR PHASE R"
+},
+
+{ "code" : "4011" ,
+
+  "details" : "ALARME INVERSEUR GATE UNIT SUPERIEUR PHASE S"
+},
+
+{ "code" : "4012" ,
+
+  "details" : "ALARME INVERSEUR GATE UNIT INFERIEUR PHASE S"
+},
+
+{ "code" : "4013" ,
+
+  "details" : "ALARME INVERSEUR GATE UNIT SUPERIEUR PHASE T"
+},
+
+{ "code" : "4014" ,
+
+  "details" : "ALARME INVERSEUR GATE UNIT INFERIEUR PHASE T"
+},
+
+{ "code" : "4015" ,
+
+  "details" : "ALARME CHOPPER SUPERIEUR GATE UNIT SUPERIEUR"
+},
+
+{ "code" : "4016" ,
+
+  "details" : "ALARME CHOPPER SUPERIEUR GATE UNIT INFERIEUR"
+},
+
+{ "code" : "4017" ,
+
+  "details" : "ALARME CHOPPER INFERIEUR GATE UNIT SUPERIEUR"
+},
+
+{ "code" : "4018" ,
+
+  "details" : "ALARME CHOPPER INFERIEUR GATE UNIT INFERIEUR"
+},
+
+{ "code" : "4019" ,
+
+  "details" : "ALARME GATE UNIT CHOPPER FREINAGE 1"
+},
+
+{ "code" : "401a" ,
+
+  "details" : "ALARME GATE UNIT CHOPPER FREINAGE 2"
+},
+
+{ "code" : "401b" ,
+
+  "details" : "ACTIVATION CROW-BAR"
+},
+
+{ "code" : "401c" ,
+
+  "details" : "COURANT MAXIMAL FREINAGE 2"
+},
+
+{ "code" : "401d" ,
+
+  "details" : "TENSION MAXIMALE ENTREE INVERSEUR"
+},
+
+{ "code" : "401e" ,
+
+  "details" : "COURANT MAXIMAL PHASE T"
+},
+
+{ "code" : "401f" ,
+
+  "details" : "COURANT MAXIMAL PHASE S"
+},
+
+{ "code" : "4020" ,
+
+  "details" : "COURANT MAXIMAL PHASE R"
+},
+
+{ "code" : "4021" ,
+
+  "details" : "ALARME TRANSMISSION SW"
+},
+
+{ "code" : "4022" ,
+
+  "details" : "DESEQUILIBRE MAXIMAL SEMI-FILTRES"
+},
+
+{ "code" : "4023" ,
+
+  "details" : "PANNE PICK-UP"
+},
+
+{ "code" : "4024" ,
+
+  "details" : "ALARME TEMPERATURE MAXIMALE MOTEURS"
+},
+
+{ "code" : "4025" ,
+
+  "details" : "PANNE PT100"
+},
+
+{ "code" : "4026" ,
+
+  "details" : "PANNE PICK-UP 1"
+},
+
+{ "code" : "4027" ,
+
+  "details" : "PANNE PICK-UP 2"
+},
+
+{ "code" : "4028" ,
+
+  "details" : "AUTOTEST TCU OK"
+},
+
+{ "code" : "a001" ,
+
+  "details" : "Defaut unite UR3 motrice"
+},
+
+{ "code" : "a002" ,
+
+  "details" : "Defaut unite UR4 motrice"
+},
+
+{ "code" : "a003" ,
+
+  "details" : "Defaut unite UR8 motrice"
+},
+
+{ "code" : "a004" ,
+
+  "details" : "Defaut unite UR8 motrice"
+},
+
+{ "code" : "a005" ,
+
+  "details" : "Defaut unite UR3 rimorchiata"
+},
+
+{ "code" : "a006" ,
+
+  "details" : "Defaut unite UR6 remorque"
+},
+
+{ "code" : "a007" ,
+
+  "details" : "Defaut dialogue avec le dispositif antipatinage"
+},
+
+{ "code" : "a008" ,
+
+  "details" : "Panne porte de montee  1"
+},
+
+{ "code" : "a009" ,
+
+  "details" : "Porte de montee 1 en etat d'urgence"
+},
+
+{ "code" : "a00a" ,
+
+  "details" : "Defaut porte de montee 1"
+},
+
+{ "code" : "a00b" ,
+
+  "details" : "Panne porte de montee 2"
+},
+
+{ "code" : "a00c" ,
+
+  "details" : "Porte de montee 2 en etat d'urgence"
+},
+
+{ "code" : "a00d" ,
+
+  "details" : "Defaut porte de montee 2"
+},
+
+{ "code" : "a00e" ,
+
+  "details" : "Defaut porte de montee 3"
+},
+
+{ "code" : "a00f" ,
+
+  "details" : "Porte de montee 3 en etat d'urgence"
+},
+
+{ "code" : "a010" ,
+
+  "details" : "Defaut porte de montee 3"
+},
+{ "code" : "a011" ,
+
+  "details" : "Panne porte de montee 4"
+},
+
+{ "code" : "a012" ,
+
+  "details" : "Porte de montee 4 en etat d'urgence"
+},
+
+{ "code" : "a013" ,
+
+  "details" : "Defaut Porte de montee 4"
+},
+
+{ "code" : "a014" ,
+
+  "details" : "4606  Poignee frein d'urgence appliquee"
+},
+
+{ "code" : "a015" ,
+
+  "details" : "Frein de stationnement bogie 1 isole"
+},
+
+{ "code" : "a016" ,
+
+  "details" : "Suspensions pneumatiques pas fonctionnant sur le bogie 1"
+},
+
+{ "code" : "a017" ,
+
+  "details" : "Frein de service bogie 1 isole"
+},
+
+{ "code" : "a018" ,
+
+  "details" : "4804   Frein de stationnement bogie 2 isole"
+},
+
+{ "code" : "a019" ,
+
+  "details" : "Suspensions pneumatiques pas fonctionnant sur le bogie 2"
+},
+{ "code" : "a01a" ,
+
+  "details" : "Frein de service bogie 2 isole"
+},
+
+{ "code" : "a01b" ,
+
+  "details" : "Activation signal de SOS de la zone voyageurs handicapes"
+},
+
+{ "code" : "a01c" ,
+
+  "details" : "Frein a main applique"
+},
+
+{ "code" : "a01d" ,
+
+  "details" : "Interrupteur By-pass vitesse antipatinage active"
+},
+
+{ "code" : "a01e" ,
+
+  "details" : "Toilette hors service (Acces inhibe)"
+},
+
+{ "code" : "a01f" ,
+
+  "details" : "Perte de redondance UR8"
+}
+
+
+ ]
+
