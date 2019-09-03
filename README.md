@@ -6,4 +6,4 @@
  Dans notre cas le declencheur est Cloud PUB/SUB.
  Les messages recue de ce declencheur sont derigé vers le FireStore de Firebase.
  
- ### PS: Il faut faire attention dans cette étape aussi  à l'authentification et l'implementation de fichier JSON generee par Firebase pour avoir acces 
+ ### PS: Il faut faire attention dans cette étape aussi  à l'authentification et l'implementation du fichier JSON generé par Firebase pour avoir accès 
